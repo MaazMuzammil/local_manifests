@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="shekhawat2/android_device_xiaomi_land" path="device/xiaomi/land" remote="github" revision="nos-o2" />
-  <project name="shekhawat2/android_kernel_xiaomi_msm8937-1" path="kernel/xiaomi/msm8937" remote="github" revision="lineage-15.1" />
+  <project name="shekhawat2/android_kernel_xiaomi_msm8937-1" path="kernel/xiaomi/msm8937" remote="github" revision="oreo-upstream" />
   <project name="shekhawat2/proprietary_vendor_xiaomi_land" path="vendor/xiaomi/land" remote="github" revision="lineage-15.1" />
 
   <project name="teamreloaded/hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8937" remote="github" revision="oreo-mr1-8937" />

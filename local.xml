@@ -36,12 +36,12 @@
   <remove-project name="platform/hardware/qcom/wlan" />
   <remove-project name="platform/hardware/qcom/keymaster" />
   <remove-project name="platform/hardware/qcom/power" />
-  <remove-project name="android_hardware_ril" />
+<!--  <remove-project name="android_hardware_ril" />-->
   <remove-project name="android_system_bt" />
   <remove-project name="android_system_media" />
   <remove-project name="android_system_sepolicy" />
   <remove-project name="android_vendor_qcom_opensource_fm" />
-  <project name="AOSiP/platform_hardware_ril" path="hardware/ril" remote="github" revision="oreo-mr1-caf" />
+<!--  <project name="AOSiP/platform_hardware_ril" path="hardware/ril-caf" remote="github" revision="oreo-mr1-caf" />-->
   <project name="GZOSP/hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8916" remote="github" revision="8.1-caf-8916" />
   <project name="GZOSP/hardware_qcom_display" path="hardware/qcom/display-caf/msm8916" remote="github" revision="8.1-caf-8916" />
   <project name="GZOSP/hardware_qcom_keymaster" path="hardware/qcom/keymaster" remote="github" revision="8.1" />
