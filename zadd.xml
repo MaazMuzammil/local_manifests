@@ -24,7 +24,7 @@
   <project name="shekhawat2/android_device_yu_tomato" path="device/yu/tomato" remote="github" revision="nos-o2" />
   <project name="shekhawat2/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="o" />
   <project name="shekhawat2/KCUFKernel" path="kernel/cyanogen/msm8916" remote="github" revision="o" />
-  <project name="shekhawat2/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
+  <project name="nostumato/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
   <project name="shekhawat2/proprietary_vendor_yu" path="vendor/yu" remote="github" revision="o" />
 
 <!-- <project name="AOSiP/platform_hardware_ril" path="hardware/ril-caf" remote="github" revision="oreo-mr1-caf" />-->
@@ -35,13 +35,14 @@
   <project name="GZOSP/hardware_qcom_bt" path="hardware/qcom/bt-caf" remote="github" revision="8.1-caf" />
   <project name="GZOSP/hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="8.1" />
 <!-- <project name="GZOSP/hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="8.1" /> -->
-  <project name="GZOSP/hardware_qcom_power" path="hardware/qcom/power" remote="github" revision="8.1" />
+  <project name="nostumato/hardware_qcom_power" path="hardware/qcom/power" remote="github" revision="8.1" />
                                                                                                                                                 
   <project name="nostumato/android_system_sepolicy" path="system/sepolicy" remote="github" revision="o2" />
   <project name="nostumato/android_system_bt" path="system/bt" remote="github" revision="o2" />
   <project name="nostumato/android_system_media" path="system/media" remote="github" revision="o2" />
   <project name="GZOSP/vendor_qcom_opensource_cryptfs_hw" path="vendor/qcom/opensource/cryptfs_hw" remote="github" revision="8.1" />
   <project name="nostumato/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="github" revision="o2" />
+  <project name="nostumato/android_hardware_libhardware" path="hardware/libhardware" remote="github" revision="o2" />
   <project name="nostumato/android_system_core" path="system/core" remote="github" revision="o2" />
   <project name="GZOSP/system_qcom" path="system/qcom" remote="github" revision="8.1" />
   <project name="GZOSP/external_libncurses" path="external/libncurses" remote="github" revision="8.1" />
