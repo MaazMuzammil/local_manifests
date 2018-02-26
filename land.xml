@@ -4,8 +4,8 @@
   <project name="shekhawat2/android_kernel_xiaomi_msm8937" path="kernel/xiaomi/msm8937" remote="github" revision="o" />
   <project name="shekhawat2/proprietary_vendor_xiaomi_land" path="vendor/xiaomi/land" remote="github" revision="lineage-15.1" />
 
-  <project name="teamreloaded/hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8937" remote="github" revision="oreo-mr1-8937" />
-  <project name="teamreloaded/hardware_qcom_display" path="hardware/qcom/display-caf/msm8937" remote="github" revision="oreo-mr1-8937" />
-  <project name="teamreloaded/hardware_qcom_media" path="hardware/qcom/media-caf/msm8937" remote="github" revision="oreo-mr1-8937" />
+  <project name="teamreloaded/hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8996" remote="github" revision="lineage-15.1-caf-8996" />
+  <project name="teamreloaded/hardware_qcom_display" path="hardware/qcom/display-caf/msm8996" remote="github" revision="lineage-15.1-caf-8996" />
+  <project name="teamreloaded/hardware_qcom_media" path="hardware/qcom/media-caf/msm8996" remote="github" revision="lineage-15.1-caf-8996" />
 
 </manifest>
