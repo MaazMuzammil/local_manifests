@@ -23,4 +23,5 @@
   <remove-project name="platform/hardware/libhardware_legacy" />
   <remove-project name="android_hardware_libhardware" />
   <remove-project name="android_vendor_xiaomi_kenzo" />
+  <remove-project name="android_packages_services_OmniJaws" />
 </manifest>
