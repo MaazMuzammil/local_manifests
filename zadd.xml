@@ -10,6 +10,11 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
+
+  <project path="hardware/gzosp/interfaces" name="gzosp/hardware_gzosp_interfaces" remote="github" revision="8.1" >
+      <copyfile dest="hardware/gzosp/Android.bp" src="Android.bp"/>
+  </project>
+
   <project name="nostumato/android_frameworks_native" path="frameworks/native" remote="github" revision="o2" />
   <project name="nostumato/android_frameworks_av" path="frameworks/av" remote="github" revision="o2" />
   <project name="nostumato/android_frameworks_base" path="frameworks/base" remote="github" revision="o2" />
