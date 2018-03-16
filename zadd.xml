@@ -61,7 +61,7 @@
   <project path="packages/apps/SnapdragonCamera" name="AOSP-JF-MM/packages_apps_SnapdragonCamera" remote="github" revision="aosp-8.1-test" />
   <project path="packages/apps/FMRadio" name="GZOSP/packages_apps_FMRadio" remote="github" revision="8.1" />
   <project path="packages/apps/Settings" name="nostumato/android_packages_apps_Settings" remote="github" revision="o2" />
-  <project path="packages/apps/SlimRecents" name="nostumato/android_packages_apps_SlimRecents" remote="github" revision="o" />
+  <project path="packages/apps/SlimRecents" name="nostumato/android_packages_apps_SlimRecents" remote="github" revision="o2" />
   <project name="GZOSP/hardware_qcom_wlan" path="hardware/qcom/wlan-caf" remote="github" revision="8.1-caf" />
   <project name="LineageOS/android_hardware_cyanogen" path="hardware/cyanogen" remote="github" revision="lineage-15.0" />
   <project path="packages/apps/OmniStyle" name="nostumato/android_packages_apps_OmniStyle" remote="github" revision="android-8.1" />
